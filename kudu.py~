@@ -24,10 +24,7 @@ def transcribe_audio_file(filename):
     r = requests.post(url, files={'mediaFileData': open(filename,'rb')})
     data = r.json()
     transcript = data['text']
-    foo = data['text']
-    f = open('newf.txt', 'w')
-    f.write(foo)
-    f.close()    
+        
     # Perform your magic here:
     print "Transcript for "+filename+"=" + transcript
 
