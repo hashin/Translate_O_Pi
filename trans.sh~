@@ -8,3 +8,7 @@ value=`cat newf.txt`
 echo "$value" 
 #translate from English to Spanish and play over speakers
 sudo python trn.py -o en -d es -t "$value"
+
+rm message.wav
+
+rm newf.txt
