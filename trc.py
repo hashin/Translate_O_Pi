@@ -8,8 +8,8 @@ import requests
 
 # Change these:
 # Login details:
-USERNAME = "hashjith@gmail.com"
-PASSWORD = "BXUSTSAPXF595KW"
+USERNAME = "your email in nexiwave"
+PASSWORD = "Your password goes here"
 
 def transcribe_audio_file(filename):
     """Transcribe an audio file using Nexiwave"""
@@ -34,7 +34,7 @@ def transcribe_audio_file(filename):
 
 if __name__ == '__main__':
     # Change this to your own
-    filename = "/home/hashin/mini/message.wav"
+    filename = "link to your message.wav file"
     
     transcribe_audio_file(filename)
 
