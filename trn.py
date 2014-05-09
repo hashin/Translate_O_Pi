@@ -30,8 +30,8 @@ def speakDestinationText(phrase):
     subprocess.call(["mplayer",googleSpeechURL], shell=False, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
 args = {
-        'client_id': 'traslate_o_pi',#your client id here
-        'client_secret': 'pjKwm2Q+2g5HyNrgaMuwAmOWI1WyFiwIJJkkSzwYQjY=',#your azure secret here
+        'client_id': '',#your client id here
+        'client_secret': '',#your azure secret here
         'scope': 'http://api.microsofttranslator.com',
         'grant_type': 'client_credentials'
     }
