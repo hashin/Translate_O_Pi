@@ -12,3 +12,4 @@ sudo python trn.py -o en -d es -t "$value"
 rm message.wav
 
 
+./trans.sh
