@@ -22,3 +22,10 @@ sudo chmod +x trans.sh
 Run trans.sh:
 
 ./trans.sh
+
+===============
+
+You can also use the trn.py file to translate a piece of text by running:
+
+python trn.py -o "Origin language code" -d "destination language code" -t "your text"
+
