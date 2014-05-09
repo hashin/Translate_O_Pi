@@ -29,6 +29,9 @@ You can also use the trn.py file to translate a piece of text by running:
 
 python trn.py -o "Origin language code" -d "destination language code" -t "your text"
 
+Note: Don`t forget to add your client ID and client secret of the application you have registered at Microsoft Azure Marketplace. https://datamarket.azure.com/
+
+Also, you should subscribe to the Microsoft Translator. You can choose the plan you wish. A free option is available, which is used in translate_o_pi. You can choose the one you prefer.
 
 =================
 
