@@ -1,4 +1,4 @@
-translate_o_pi
+Translate_O_Pi
 ==============
 
 A plug and play universal language translator using Raspberry Pi.
