@@ -35,6 +35,7 @@ Also, you should subscribe to the Microsoft Translator. You can choose the plan 
 
 =================
 
+Making Translate O Pi Plug and PLay.
 If you want to run translate_o_pi on startup, you may proceed as follows:
 
 Make sure that you are in the /pi/ directory.
