@@ -4,7 +4,7 @@ import urllib
 import subprocess
 import argparse
 
-parser = argparse.ArgumentParser(description='This is a demo script by DaveConroy.com.')
+parser = argparse.ArgumentParser(description='Translate O Pi demo script.')
 parser.add_argument('-o','--origin_language', help='Origin Language',required=True)
 parser.add_argument('-d','--destination_language', help='Destination Language', required=True)
 parser.add_argument('-t','--text_to_translate', help='Text to Translate', required=True)
