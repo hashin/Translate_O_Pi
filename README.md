@@ -60,5 +60,5 @@ Copy the shortcut to this directory.
 Reboot your Raspberry Pi and your translate_o_pi is ready to go!
 
 
-
+In case you need any assistance setting up, just drop a [mail](mailto:mail@hashin.me) and I would be happy to help.
 
